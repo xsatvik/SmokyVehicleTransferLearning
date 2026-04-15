@@ -6,6 +6,9 @@
 This project aims to detect vehicles emitting black or gray exhaust gases, which indicate a faulty exhaust system. It uses transfer learning applied to a ResNet-152 model pre-trained on the ImageNet dataset to differentiate between smoky and non-smoky vehicles.
 
 ## Motivation
+
+Personal note: i was very very interested in automating things that improve civic sense and anything that the govn should do (because they don't do shit). trying to capture vehicles that produce the smoke which is bad for the environment but also makes the vehicles behind a pain to be behind and take risky overtakes to get ahead of such smoky vehicles. this is literally my first ML project!
+
 Faulty vehicle exhausts are a significant contributor to air pollution and can cause various health problems. By detecting such vehicles, this project aids in environmental protection efforts and helps to enforce vehicle emission standards.
 
 ## Dataset
